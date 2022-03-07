@@ -1,1 +1,1 @@
-# Guess it!
+One small game of lucky guessing.
